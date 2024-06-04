@@ -7,5 +7,6 @@ spec:
     spec:
       containers:
       - name: goapp
-        image: lnahuel/tools:562c1
+        image: lnahuel/tools:4b2ff
+
 
